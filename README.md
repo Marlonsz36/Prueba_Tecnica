@@ -13,19 +13,19 @@ Optimizar el proceso de **abastecimiento y compras a proveedores** mediante un m
 ## 📂 Estructura del Proyecto
 
 .
-├── input/ # Dataset original y datos intermedios
-├── slides/ # Presentacion ejecutiva
-├── Documento/ # # PDF de propuesta y gobernanza
-├── output/ #Datasets limpios
-│ ├── images/ # Visualizaciones generadas
-├── notebooks/ #Análisis exploratorio y desarrollo de modelo
-│ ├── Preprocessingelec.ipynb # Limpieza y preparación de datos
-| ├── PreprocessingMascota.ipynb # Limpieza y preparación de datos
-│ ├── productos.ipynb # Limpieza de datos
-│ ├── locations.ipynb # Limpieza de datos
-│ |── ModelValidation.ipynb # Entrenamiento de modelos
-│ └── ModelValidationMascota.ipynb # Entrenamiento de modelos
-└── README.md # Este archivo
+├── input/ # Dataset original y datos intermedios  
+├── slides/ # Presentacion ejecutiva  
+├── Documento/ # # PDF de propuesta y gobernanza  
+├── output/ #Datasets limpios  
+│ ├── images/ # Visualizaciones generadas  
+├── notebooks/ #Análisis exploratorio y desarrollo de modelo  
+│ ├── Preprocessingelec.ipynb # Limpieza y preparación de datos  
+| ├── PreprocessingMascota.ipynb # Limpieza y preparación de datos  
+│ ├── productos.ipynb # Limpieza de datos  
+│ ├── locations.ipynb # Limpieza de datos  
+│ |── ModelValidation.ipynb # Entrenamiento de modelos  
+│ └── ModelValidationMascota.ipynb # Entrenamiento de modelos  
+└── README.md # Este archivo  
 
 
 ---
